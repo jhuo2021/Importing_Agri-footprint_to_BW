@@ -1,0 +1,11 @@
+{
+    "fields": ["categories"],
+    "data": [
+        [
+            ["soil", "forestry"],
+            {
+                "categories": ["soil", "agricultural"]
+            }
+        ]
+    ]
+}
